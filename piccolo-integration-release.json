@@ -1,0 +1,9 @@
+{
+  "schema": "piccolo.integration.release.v1",
+  "package": "github:kimus/piccolo-math",
+  "version": "0.1.0",
+  "artifacts": [
+    { "platform": "linux/arm64", "asset": "piccolo-math_0.1.0_linux_arm64.tar.gz", "sha256": "sha256:d7e046b9fa21c5e7a99ad5493279d6dd5b972164d1085ce80e9f0a812416f5dc" },
+    { "platform": "linux/amd64", "asset": "piccolo-math_0.1.0_linux_arm64.tar.gz", "sha256": "sha256:d7e046b9fa21c5e7a99ad5493279d6dd5b972164d1085ce80e9f0a812416f5dc" }
+  ]
+}
